@@ -1,6 +1,6 @@
 # Optimizing Anti-Doping Strategies: Analysis of USADA Sanctions (2014-2024)
 
-## 1. Background and Overview
+## Background and Overview
 
 ### Project Context:
 This project analyzes doping violations in sports using data from the United States Anti-Doping Agency (USADA). The data encompasses sanctions from 2014 to 2024, focusing on American athletes and international athletes tested/sanctioned by USADA on US soil. The project aims to explore trends in doping violations, identify key patterns, and present actionable insights to drive further anti-doping education.
@@ -22,7 +22,7 @@ Data was scraped from USADA’s official sanctions page using Python libraries s
 
 ---
 
-## 2. Data Structure Overview
+## Data Structure Overview
 
 ### [Dataset Summary](https://www.usada.org/news/sanctions/):
 The dataset consists of key columns:
@@ -36,7 +36,7 @@ The dataset consists of key columns:
 ![Doping Project Picture](https://github.com/user-attachments/assets/00461a98-3bc7-4827-aeec-91fc9c0dea30)
 
 
-## 3. Executive Summary
+## Executive Summary
 
 ### Key Insights Summary:
 1. **Sanctions by Sport**: Cycling, Track and Field, and Weightlifting emerged as the sports most impacted by doping violations.
@@ -56,7 +56,7 @@ The dashboard highlights key trends, including a steady decrease in positive tes
 
 ---
 
-## 4. Insights Deep Dive
+## Insights Deep Dive
 
 - **Cycling and Track & Field - Leading in Doping Violation**
   - **Quantified Value**: In 2018, there were 86 positive doping tests, the highest number in the dataset.
@@ -78,7 +78,7 @@ The dashboard highlights key trends, including a steady decrease in positive tes
 
 ---
 
-## 5. Recommendations
+## Recommendations
 
 1. **Educate athletes about cannabinoids**:
    - Focus on educating athletes about the rules around cannabinoid use, especially the differences between in-competition and out-of-competition bans. Provide guidance on how body composition affects the clearance of the substance from the system.
