@@ -42,13 +42,16 @@ The dataset consists of key columns:
 1. **Sanctions by Sport**: Cycling, Track and Field, and Weightlifting emerged as the sports most impacted by doping violations.
 2. **Substance Violations**: Androgenic Anabolic Steroids were the most common substances leading to doping sanctions, with trends becoming clearer after grouping it with substances like Testosterone and Stanozolol. Cannabinoids were the second most common reason for suspensions.
 
-### Dashboard Overview:
-The dashboard highlights key trends, including a steady decrease in positive tests since 2018.
-
 ### Key Performance Metrics:
 - **Year with the most sanctions**: 2018, with 86 violations.
 - **Substance trends**: Androgenic Anabolic Steroids accounted for the highest number of violations.
 - **Year-over-year reduction**: Positive tests dropped from 86 in 2018 to 44 in 2023, marking a 48.8% decrease.
+
+- ### [Dashboard Overview](https://public.tableau.com/app/profile/nikola.acin/viz/USADADopingDataAnalysis/USADADashboard):
+The dashboard highlights key trends, including a steady decrease in positive tests since 2018.
+
+![Tableau Dashboard Pic](https://github.com/user-attachments/assets/7cc6c7b0-b7e9-42a6-a9a5-44c76e4c4d8e)
+
 
 ---
 
@@ -59,17 +62,18 @@ The dashboard highlights key trends, including a steady decrease in positive tes
   - **Business Impact**: This spike potentially means that stronger education efforts should have been targeted during this period.
   - **Historical Trend**: Sanctions have steadily decreased since 2018, potentially suggesting successful anti-doping education or better adherence by athletes.
   - **Sport**: Cycling and Track and Field contributed significantly to the spike in violations during this period.
-
-- **Cannabinoids**
-  - **Quantified Value**: Although cannabinoids are only banned in competition, they remain a common cause of doping violations.
-  - **Business Impact**: Educating athletes on the in-competition ban, the substance's clearance rate from the body, and its impact on recovery could lead to fewer violations.
-  - **Historical Trend/Story**: Violations involving cannabinoids persist, especially in sports where athletes may use them for pain relief, indicating a gap in awareness.
-  - **Target Certain Sports**: Sports like combat and endurance disciplines, where pain management is critical, could benefit from targeted educational efforts on cannabis use and its risks.
-
+ 
 - **Anabolic Steroids - The Most Abused Substance:**
   - **Quantified Value**: Anabolic Steroids (including Testosterone and Stanozolol), accounted for a large portion of the violations.
   - **Business Impact**: Targeting education around these substances could help reduce future violations.
   - **Historical Trend**: Anabolic Steroid use has remained a consistent issue, with variations across sports.
+
+- **Cannabinoids**
+  - **Quantified Value**: Although cannabinoids are only banned in competition, they remain a common cause of doping violations.
+  - **Business Impact**: Educating athletes on the in-competition ban, the substance's clearance rate from the body, and its impact on recovery could lead to fewer violations.
+  - **Historical Trend/Story**: Violations involving cannabinoids persist, especially in sports where athletes may use them for pain relief, suggesting a potential gap in awareness.
+  - **Target Certain Sports**: Sports like combat and endurance disciplines, where pain management is critical, could potentially benefit from targeted educational efforts on cannabis use and its risks.
+
 
 ---
 
@@ -92,6 +96,6 @@ The dashboard highlights key trends, including a steady decrease in positive tes
 
 ---
 
-## Optional: Caveats and Assumptions
+## Caveats and Assumptions
 - **Data limitations**: The data only includes sanctions overseen by USADA, which may not represent the global scope of doping violations.
 - **Assumptions**: The classification of substances such as combining 'Testosterone' and 'Stanozolol' under the broader 'Androgenic Anabolic Steroid' category was made to streamline analysis.
