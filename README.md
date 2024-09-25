@@ -17,7 +17,7 @@ To uncover the drivers and relationships behind doping violations across various
 Data was scraped from USADA’s official sanctions page using Python libraries such as requests and BeautifulSoup. The data includes fields like athlete name, sport, substance or reason for the sanction, sanction terms, and the date of announcement.
 
 ### Tools Used:
-- Python (Pandas, BeautifulSoup, Requests, Matplotlib, Numpy, Seaborn) for data scraping, cleaning, and analysis.
+- Python (Pandas, BeautifulSoup, Requests, Matplotlib, Numpy, Seaborn) for [data scraping](https://github.com/nacin023/USADA-Doping-Analysis/blob/main/Data_Scraping_Doping_Project.ipynb), [cleaning & analysis](https://github.com/nacin023/USADA-Doping-Analysis/blob/main/Doping_Project_EDA.ipynb).
 - Tableau for data visualization.
 
 ---
