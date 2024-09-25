@@ -50,7 +50,8 @@ The dataset consists of key columns:
 - ### [Dashboard Overview](https://public.tableau.com/app/profile/nikola.acin/viz/USADADopingDataAnalysis/USADADashboard):
 The dashboard highlights key trends, including a steady decrease in positive tests since 2018.
 
-![Tableau Dashboard Pic](https://github.com/user-attachments/assets/7cc6c7b0-b7e9-42a6-a9a5-44c76e4c4d8e)
+![USADA Dashboard](https://github.com/user-attachments/assets/9cd78b56-9467-47ce-933c-c0f52f76bb30)
+
 
 
 ---
