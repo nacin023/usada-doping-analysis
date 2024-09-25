@@ -8,7 +8,7 @@ This project analyzes doping violations in sports using data from the United Sta
 ### Main Goal:
 To uncover the drivers and relationships behind doping violations across various sports, substances, and years, ultimately informing strategies to reduce positive doping cases.
 
-### Key Metrics (North Star KPIs):
+### Key Metrics:
 - Number of sanctions per year.
 - The most common substances leading to doping violations.
 - Sports with the highest number of sanctions.
