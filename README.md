@@ -24,7 +24,7 @@ Data was scraped from USADA’s official sanctions page using Python libraries s
 
 ## 2. Data Structure Overview
 
-### Dataset Summary:
+### [Dataset Summary] (https://www.usada.org/news/sanctions/):
 The dataset consists of key columns:
 - `athlete_name`: Name of the sanctioned athlete.
 - `sport`: Sport associated with the athlete.
