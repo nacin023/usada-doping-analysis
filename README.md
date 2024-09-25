@@ -32,9 +32,9 @@ The dataset consists of key columns:
 - `sanction_announced`: Date when the sanction was announced.
 - `sanction_term`: The length and terms of the sanction.
 
-_Include a picture of data_
 
----
+![Doping Project Picture](https://github.com/user-attachments/assets/00461a98-3bc7-4827-aeec-91fc9c0dea30)
+
 
 ## 3. Executive Summary
 
