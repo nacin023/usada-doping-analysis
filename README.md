@@ -3,7 +3,7 @@
 ## Background and Overview
 
 ### Project Context:
-This project analyzes doping violations in sports using data from the United States Anti-Doping Agency (USADA). The data encompasses sanctions from 2014 to 2024, focusing on American athletes and international athletes tested/sanctioned by USADA on US soil. The project aims to explore trends in doping violations, identify key patterns, and present actionable insights to drive further anti-doping education.
+This project analyzes doping violations in sports using data from the United States Anti-Doping Agency (USADA). The data encompasses sanctions from 2014 to 2024, focusing on American athletes and international athletes tested/sanctioned by USADA on US soil. The project aims to explore trends in doping violations, identify key patterns,present insights to improve anti-doping education procotols, and raise substance awareness.
 
 ### Main Goal:
 To uncover the drivers and relationships behind doping violations across various sports, substances, and years, ultimately informing strategies to reduce positive doping cases.
